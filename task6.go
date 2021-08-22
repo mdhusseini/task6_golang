@@ -11,7 +11,7 @@ import (
 func main() {
     
 	magicNo := generateRandRange()
-	fmt.Printf("Magic No is... %d", magicNo)
+	//fmt.Printf("Magic No is... %d", magicNo)
 	
 	for i := 10; i > 0; i-- {
 		
